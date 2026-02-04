@@ -1,17 +1,17 @@
-# Weekly Summary — Week 05 (2026-01-26 → 2026-01-31)
+# Weekly Summary — Week 05 (2026-01-26 → 2026-02-01)
 
 ## Overview
-- Days ridden: 6 / 6
+- Days ridden: 7 / 7
 - Primary bike: momon105
-- Theme: Transition to fitness-aware riding under heavy weather constraints
+- Theme: Transition from absorption to stimulus under difficult conditions
 
-Week 05 marked the formal integration of Fitness and Weather into daily logging. Despite persistent rain and wet roads, consistency was preserved without forcing volume or intensity.
+Week 05 closed January and opened February in a single arc: conservative riding under heavy rain, followed by a deliberate high-load climbing day to reset stimulus.
 
 ---
 
 ## Totals
-- Total distance: ~164 km
-- Total elevation: ~526 m
+- Total distance: ~250 km
+- Total elevation gain: ~2,030 m
 
 Daily breakdown:
 - 2026-01-26: 25.57 km / 61 m  
@@ -20,58 +20,62 @@ Daily breakdown:
 - 2026-01-29: 25.80 km / 59 m  
 - 2026-01-30: 52.55 km / 197 m  
 - 2026-01-31: 6.79 km / 14 m  
+- 2026-02-01: 86.18 km / 1507 m  
 
 ---
 
 ## Effort Distribution
-- Easy / very easy: 4 days
-- Steady: 2 days
-- Hard (uncontrolled): 0 days
+- Easy / very easy: 4 days  
+- Steady: 2 days  
+- Hard (intentional): 1 day  
+- Uncontrolled hard days: 0  
 
-Longer or harder efforts were always contextual (group ride, social ride, weather-related pacing), never stacked.
+Intensity was restrained for most of the week, allowing capacity to be used deliberately at the end.
 
 ---
 
 ## Fitness Trend
-- CTL: Stable (46–47)
-- Form: Mostly positive (+6 to +10)
-- Ramp behavior: Neutral to slightly negative, with one brief positive uptick
+- CTL: Increased slightly (≈47 → 50)
+- ATL: Rose sharply at week end
+- Form: Shifted from positive to negative (-7) on the final day
+- Ramp behavior: Mostly neutral, with a controlled uptick
 
 Interpretation:
-- Load was intentionally conservative
-- Freshness was maintained despite frequent riding
-- Fitness numbers aligned well with subjective feelings
+- January’s conservative load created room for a meaningful stimulus
+- Negative Form at week close was expected and intentional
+- No signs of runaway fatigue or loss of control
 
 ---
 
 ## Weather Impact
-- Rain or wet roads on most days
-- Several rides opportunistically timed between rain
-- One social night ride completed in dry conditions despite a wet day
+- Frequent rain and wet roads during the week
+- Several rides were opportunistic and shortened
+- The week ended with mixed conditions: dry climbing followed by rainy descent
 
-Weather dictated **how** rides were executed, not **whether** they happened.
+Weather shaped execution, not consistency.
 
 ---
 
 ## Bike State & Maintenance
 - Rear tire (OBO Fire Bolt) and brake shoes (Baradine) continued early-life usage
-- Multiple wet-road rides increased contamination exposure
-- No drivetrain issues observed due to prompt cleaning and conservative riding
+- High-elevation day increased braking load under wet descent conditions
+- No mechanical issues observed
 
-Bike condition remained stable throughout the week.
+Component tracking remains clean and uninterrupted.
 
 ---
 
 ## Reflection
-Week 05 demonstrated that adding more data did not increase pressure. Fitness and Weather metrics improved explainability without influencing decision-making.
+Week 05 functioned as a bridge. Most days absorbed load quietly under poor conditions, preserving freshness. The final uphill ride reset stimulus and clearly marked the transition from January’s stabilization phase into February’s build phase.
 
-The ability to downshift volume, accept very short rides, and still close the week cleanly shows the system is resilient.
+The system handled the shift without strain.
 
 ---
 
 ## Looking Ahead
-- Enter February with positive Form and low accumulated fatigue
-- Maintain conservative effort during wet conditions
-- Allow volume to rise naturally when weather improves
+- Early February should emphasize easier days to absorb the new load
+- Avoid stacking intensity immediately after the climbing stimulus
+- Let Form return toward neutral before adding another hard day
 
-> This week proved the system scales without breaking when complexity is added.
+> A calm week earns a hard day.  
+> A hard day earns calm ones.
